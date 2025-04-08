@@ -6,7 +6,7 @@
 <div align="left">
 
 ## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; justify-content:center;">
     <a href="https://Gyo50.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
     </a>
@@ -15,7 +15,7 @@
 
  
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; justify-content:center;">
     <a href="mailto:oey157@nate.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
@@ -29,7 +29,7 @@
 </div><br>
     
 ## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:center;">
+<div style="display:flex; justify-content:center; align-items:center;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
