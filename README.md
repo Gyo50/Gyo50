@@ -5,13 +5,6 @@
  
 <div align="left">
 
--------
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?Gyo50=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Gyo50=anuraghazra)(https://github.com/anuraghazra/github-readme-stats)
- 
-<br>
-
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://Gyo50.github.io/">
@@ -36,7 +29,7 @@
 </div><br>
     
 ## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<div style="display:flex; flex-direction:column; align-items:center;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
@@ -73,7 +66,7 @@
         <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
-        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+        <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
     </div>
     <!-- Version Control -->
