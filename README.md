@@ -5,12 +5,12 @@
  
 <div align="left">
 
-## 💻 DEV's log 💻
+//## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row; justify-content:center;">
     <a href="https://Gyo50.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
     </a>
-</div> --제작중...
+</div> --제작중...//
 <br>
 
  
