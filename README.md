@@ -28,7 +28,7 @@
 <div style="display:flex; justify-content:center; align-items:center;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
-    <div>
+    <div style="display:flex; gap:8px;">
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -40,7 +40,7 @@
     </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
-    <div>
+    <div style="display:flex; gap:8px;">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -50,18 +50,18 @@
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
-    <div>
+    <div style="display:flex; gap:8px;">
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
-    <div>
+    <div style="display:flex; gap:8px;">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     </div>
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
-    <div>
+    <div style="display:flex; gap:8px;">
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
         <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white">
@@ -71,13 +71,13 @@
     </div>
     <!-- Version Control -->
     <p><strong>Version Control</strong></p>
-    <div>
+    <div style="display:flex; gap:8px;">
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
     </div>
     <!-- Communication -->
     <p><strong>Communication</strong></p>
-    <div>
+    <div style="display:flex; gap:8px;">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
     </div>
 </div><br>
